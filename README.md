@@ -6,6 +6,9 @@ Compilado de traduções, para Pt-Br, de uma serie de mods de Project Zomboid
 [![GitHub PZ-ClothingUI](https://img.shields.io/badge/-GitHub-gray)](https://github.com/rempAut/PZ-ClothingUI)
 [![Steam PZ-ClothingUI](https://img.shields.io/badge/-Steam-black)](https://steamcommunity.com/sharedfiles/filedetails/?id=2695471997)
 
+>More Books:<br />	
+[![GitHub More Books](https://img.shields.io/badge/-GitHub-gray)]()
+[![Steam More Books](https://img.shields.io/badge/-Steam-black)](https://steamcommunity.com/sharedfiles/filedetails/?id=2815857931)
 
 
 ###### Créditos:<br /><br />

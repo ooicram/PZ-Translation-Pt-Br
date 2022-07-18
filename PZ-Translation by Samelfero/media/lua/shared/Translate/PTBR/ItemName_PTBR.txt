@@ -1,0 +1,23 @@
+ItemName_PTBR = {
+
+/* More Books */
+	ItemName_Books.Nineteen_Eighty-Four = "1984",						
+	ItemName_Books.The_Communist_Manifesto = "Manifesto do Partido Comunista",									
+	ItemName_Books.A_Tale_of_Two_Cities = "Um conto de duas cidades",													
+	ItemName_Books.And_Then_There_Were_None = " E Nao Sobrou Nenhum",								
+	ItemName_Books.Charlotte's_Web = "A menina e o porquinho",							
+	ItemName_Books.The_Tale_of_Peter_Rabbit = "A Historia do Pedro Coelho",				
+	ItemName_Books.To_Kill_a_Mockingbird = "O Sol E para Todos",					
+	ItemName_Books.The_Adventures_of_Sherlock_Holmes = "As Aventuras de Sherlock Holmes",		
+	ItemName_Books.The_Prophet = "O Profeta",								
+	ItemName_Books.The_Exorcist = "O Exorcista",							
+	ItemName_Books.The_Neverending_Story = "A Historia Sem Fim",																		
+	ItemName_Books.Dune = "Duna",									
+	ItemName_Books.The_Chronicles_of_Narnia = "As cronicas de Narnia",									
+	ItemName_Books.Pride_and_Prejudice = "Orgulho e Preconceito",						
+	ItemName_Books.The_Shining = "O Iluminado",																	
+	ItemName_Books.Lord_of_the_Flies = "O Senhor das Moscas",						
+	ItemName_Books.Animal_Farm = "A Revolucao dos Bichos",						
+	ItemName_Books.Catch-22 = "Ardil-22 ",							
+	ItemName_Books.To_the_Lighthouse = " O Farol",
+}
