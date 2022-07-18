@@ -1,5 +1,8 @@
 ItemName_PTBR = {
 
+/* Better Towing */	
+	ItemName_TowingCar.TowBar = "Barra de reboque"
+	
 /* More Books */
 	ItemName_Books.Nineteen_Eighty-Four = "1984",						
 	ItemName_Books.The_Communist_Manifesto = "Manifesto do Partido Comunista",									
@@ -19,5 +22,5 @@ ItemName_PTBR = {
 	ItemName_Books.Lord_of_the_Flies = "O Senhor das Moscas",						
 	ItemName_Books.Animal_Farm = "A Revolucao dos Bichos",						
 	ItemName_Books.Catch-22 = "Ardil-22 ",							
-	ItemName_Books.To_the_Lighthouse = " O Farol",
+	ItemName_Books.To_the_Lighthouse = " O Farol",	
 }

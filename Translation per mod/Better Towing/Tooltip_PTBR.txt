@@ -1,0 +1,5 @@
+Tooltip_PTBR = {
+
+Tooltip_TowBar_TowingCar = "Barra de reboque pode ser usada<br> para rebocar veículos como um trailer"
+
+}

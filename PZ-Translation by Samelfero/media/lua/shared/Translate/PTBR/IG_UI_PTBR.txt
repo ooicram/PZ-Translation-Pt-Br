@@ -10,7 +10,7 @@ IGUI_PTBR = {
    IGUI_CUI_Slot_vertical_spacing = "Espaco vertical do slot de roupas",
    IGUI_CUI_Slot_vertical_spacing_tooltip = "Espaco vertical entre os icones do slot.",
    IGUI_CUI_Slot_button_size = "Tamanho do icone dos slots",
-   IGUI_CUI_Slot_button_size_tooltip = "Tamanho do botao"	
+   IGUI_CUI_Slot_button_size_tooltip = "Tamanho do botao"  
 }
 
 

@@ -1,0 +1,6 @@
+IGUI_PTBR = {
+
+	IGUI_VehicleParttowbar = "Towbar Attachment",
+	IGUI_VehiclePartrope = "Rope Attachment"
+	
+}

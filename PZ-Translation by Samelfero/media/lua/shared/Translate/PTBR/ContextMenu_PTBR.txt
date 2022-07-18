@@ -1,0 +1,5 @@
+ContextMenu_RU = {
+
+/* MOD NAME */
+	ContextMenu_UseStraps = "С жилетом",
+} 

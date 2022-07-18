@@ -1,5 +1,8 @@
 Tooltip_PTBR = {
 
+/* Better Towing */	
+	Tooltip_TowBar_TowingCar = "Barra de reboque pode ser usada<br> para rebocar ve?culos como um trailer"
+
 /* More Books */
 	Tooltip_book_1 = "Por George Orwell"
 	Tooltip_book_2 = "Por Max Stirner"
@@ -101,5 +104,4 @@ Tooltip_PTBR = {
 	Tooltip_book_98 = "Por Anne Frank"
 	Tooltip_book_99 = "Por Charles Bukowski"
 	Tooltip_book_100 = "Por Sun Tzu"
-	
 }

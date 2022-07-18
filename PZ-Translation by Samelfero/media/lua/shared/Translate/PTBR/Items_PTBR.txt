@@ -1,0 +1,8 @@
+Items_PTBR = {
+
+
+/* MOD NAME */
+	DisplayName_Hand_Hatchet = "Ручной топорик",
+
+
+}

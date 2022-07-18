@@ -1,0 +1,7 @@
+Moveables_PTBR = {
+
+
+/* MOD NAME */
+    Full_Water_Dispenser = "Кулер",
+
+}

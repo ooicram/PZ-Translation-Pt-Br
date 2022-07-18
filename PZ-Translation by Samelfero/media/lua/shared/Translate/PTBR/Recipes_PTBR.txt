@@ -1,0 +1,6 @@
+Recipes_PTBR = {
+
+/* MOD NAME */
+	Recipe_Use NV18 Harness = "Traducao",
+	
+}
