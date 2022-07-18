@@ -1,0 +1,89 @@
+Recipes_RU = {
+
+
+/* BRITA'S ARMOR PACK */
+	Recipe_Use NV18 Harness = "Использовать PVS-15 с ремнями",
+	Recipe_Use NV18 with Mount = "Использовать PVS-15 для шлема",
+	Recipe_Use PVS15 Harness = "Использовать NV-18 с ремнями",
+	Recipe_Use PVS15 with Mount = "Использовать NV-18 для шлема",
+	
+
+/* UNDEAD SURVIVOR */
+	Recipe_PrepperKnifeStab = "Сменить стиль: колющий",
+	Recipe_PrepperKnifeSwing = "Сменить стиль: режущий",
+	Recipe_Fix Stalker Knife = "Починить нож сталкера",
+	Recipe_Fix Prepper Knife Swing = "Починить нож выживальщика (стиль: режущий)",
+	Recipe_Fix Prepper Knife Stab = "Починить нож выживальщика (стиль: колющий)",
+	Recipe_Stab Prepper Knife = "Сменить стиль боя: колющий",
+	Recipe_Swing Prepper Knife = "Сменить стиль боя: режущий",
+	Recipe_Make Prepper Vest with bags = "Прикрепить сумку к жилету выживальщика",
+	Recipe_Remove Bags from Prepper Vest = "Снять сумку с жилета выживальщика",
+	Recipe_Remove Battery from Prepper Flashlight = "Вытащить батарейки из фонарика выживальщика",
+	Recipe_Insert Battery into Prepper Flashlight = "Вставить батарейки в фонарик выживальщика",
+	Recipe_Dismantle Prepper Flashlight = "Разобрать фонарик выживальщика",
+
+
+/* BUSHCRAFT GEAR - TOOLS (АДАПТАЦИЯ МАШИННОГО ПЕРЕВОДА) */
+	Recipe_Attach_Survival_Knife_to_Spear = "Закрепить нож сурвивалиста на копье",
+	Recipe_Attach_Cheap_Survival_Knife_to_Spear = "Закрепить простой нож сурвивалиста к копью",
+	Recipe_Reclaim_Survival_Knife_from_Spear = "Снять с копья нож сурвивалиста",
+	Recipe_Reclaim_Cheap_Survival_Knife_from_Spear = "Снять с копья простой нож сурвивалиста",
+
+
+/* REFILLABLE LIGHTERS */
+	Recipe_Refill Empty Lighter = "Заправить пустую зажигалку",
+	
+	
+/* 67 COMMANDO BMP */
+	Recipe_Make Commando Viewport = "Сделать стеклопанель (67' БМП) 1",
+	Recipe_Make Commando Viewport 1 = "Сделать стеклопанель (67' БМП) 2",
+	Recipe_Make Commando Hood = "Сделать капот ('67 БМП)",
+	Recipe_Make Commando ToolBox Lid = "Сделать крышку инструментального ящика ('67 БМП)",
+	
+	
+/* 86 OSHKOSH P19A */
+	Recipe_Make Side Spare Tire Mount = "Сделать крепление для запаски сзади (86' OSHKOSH)",
+	Recipe_Make Roof Spare Tire Mount = "Сделать крепление для запаски на крыше (86' OSHKOSH)",
+	Recipe_Make P19A Side Window = "Сделать переднее броне-стекло (86' OSHKOSH) 1",
+	Recipe_Make P19A Side Window 1 = "Сделать переднее броне-стекло (86' OSHKOSH) 2",
+	Recipe_Make P19A Windshield = "Сделать лобовое броне-стекло (86' OSHKOSH)",
+	Recipe_Make P19A Door = "Сделать переднюю дверь (86' OSHKOSH)",
+	Recipe_Make P19A Hood = "Сделать переднюю дверь (86' OSHKOSH)",
+	Recipe_Make P19A Trunk Lid = "Сделать крышку багажника (86' OSHKOSH)",
+	Recipe_Make P19A Roof Hatch = "Сделать люк от крыши (86' OSHKOSH)",
+	Recipe_Make P19A Door Armor = "Сделать броню двери (86' OSHKOSH)",
+	Recipe_Make P19A Windshield Armor = "Сделать стеклянную броне-панель (86' OSHKOSH)",
+	Recipe_Make P19A Roofrack = "Сделать багажник на крышу (86' OSHKOSH)",
+	Recipe_Make P19A Makeshift Rear Left Fender = "Сделать импровизированное заднее левое крыло (86' OSHKOSH)",
+	Recipe_Make P19A Makeshift Rear Right Fender = "Сделать импровизированное заднее правое крыло (86' OSHKOSH)",
+	
+	
+/* VANILA LOL KEK KAK TAK TO */
+	Recipe_Dismantle Camera = "Разобрать камеру",
+
+
+/* VFE */
+	Recipe_Couple 5.56 Magazines = "Склеить два магазина 5.56",
+	Recipe_Couple 7.62 Magazines = "Склеить два магазина 7.62",
+	Recipe_Recipe_Open Box of .22 Ammo = "Вынуть патроны из коробки",
+	Recipe_Place 7.62 Ammo in Box = "Сложить патроны в коробку",
+
+
+/* BETTER LOCKPICKING */
+	Recipe_Picklock = "Взлом отмычкой",
+	Recipe_CrowbarAction = "Взлом ломом",
+	Recipe_CrowbarGarageAction = "Взлом гаражных ворот ломом",
+
+
+/* EXPANDED HELICOPTER EVENTS */
+	Recipe_Open Supplies = "Открыть коробку",
+	Recipe_Unseal Water Ration = "Распечатать пакет с водой",
+	Recipe_Cut up Parachute = "Порвать парашют на тряпки",
+	Recipe_Dismantle Main Rotor Blade = "Разобрать лопасть",
+	Recipe_Dismantle Tail Rotor Blade = "Разобрать лопасть",
+	Recipe_Dismantle UH-60 Window = "Разобрать окно",
+	Recipe_Dismantle UH-60 Door = "Разобрать дверь",
+	Recipe_Dismantle UH-60 Elevator = "Разобрать элеватор",
+	Recipe_Dismantle Helicopter Skirt = "Разобрать шасси",
+	
+}

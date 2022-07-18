@@ -1,0 +1,7 @@
+Moveables_RU = {
+
+
+/* WATER DISPENCSER */
+    Full_Water_Dispenser = "Кулер",
+    Empty_Water_Dispenser = "Кулер",
+}

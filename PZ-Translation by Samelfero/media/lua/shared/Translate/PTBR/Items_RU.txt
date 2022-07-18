@@ -1,0 +1,14 @@
+Items_RU = {
+
+
+/* BUSHCRAFT GEAR - TOOLS (АДАПТАЦИЯ МАШИННОГО ПЕРЕВОДА, стоковый файл мода, перезапись) */
+	DisplayName_Hand_Hatchet = "Ручной топорик",
+	DisplayName_Survival_Knife = "Нож сурвивалиста",
+	DisplayName_Cheap_Survival_Knife = "Простой нож сурвивалиста",
+	DisplayName_Rancher_Machete = "Мачете Ranchero",
+	DisplayName_Kukri_Machete = "Кукри",
+	DisplayName_Splitting_Axe = "Колун",
+	DisplayName_Spear_With_Survival_Knife = "Копье с ножом сурвивалиста",
+	DisplayName_Spear_With_Cheap_Survival_Knife = "Копье с простым ножом сурвивалиста",
+
+}

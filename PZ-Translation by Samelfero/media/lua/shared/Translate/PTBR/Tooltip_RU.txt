@@ -1,0 +1,6 @@
+Tooltip_RU = {
+
+
+/* VEHICLE REPAIR OVERHAUL */
+	Tooltip_FixAFlat = "Ремонт автомобильных шин.",
+}

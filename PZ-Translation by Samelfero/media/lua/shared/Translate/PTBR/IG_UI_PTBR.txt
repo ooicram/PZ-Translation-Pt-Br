@@ -1,0 +1,16 @@
+IGUI_PTBR = {
+
+/* PZ-ClothingUI */
+   IGUI_CUI_Display_slot_label  = "Mostrar rotulo do slot de roupas",
+   IGUI_CUI_Display_slot_label_tooltip = "Mostrar ou escondr os rotulos do slot",
+   IGUI_CUI_Slot_label_margin = "Margem do rotulo do slot de roupa",
+   IGUI_CUI_Slot_label_margin_tooltip = "Distancia entre o rotulo e o icone. Aumente para mover para cima",
+   IGUI_CUI_Slot_horizontal_spacing = "Espaco horizontal do slot de roupas",
+   IGUI_CUI_Slot_horizontal_spacing_tooltip = "Espaco horizontal entre os icones do slot.",
+   IGUI_CUI_Slot_vertical_spacing = "Espaco vertical do slot de roupas",
+   IGUI_CUI_Slot_vertical_spacing_tooltip = "Espaco vertical entre os icones do slot.",
+   IGUI_CUI_Slot_button_size = "Tamanho do icone dos slots",
+   IGUI_CUI_Slot_button_size_tooltip = "Tamanho do botao"	
+}
+
+

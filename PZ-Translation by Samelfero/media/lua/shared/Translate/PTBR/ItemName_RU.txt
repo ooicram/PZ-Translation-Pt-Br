@@ -1,0 +1,333 @@
+ItemName_RU = {
+
+
+/* USMC ARMORY */
+	/* ARMOR */
+    ItemName_Base.Interceptor_Armor = "Бронежилет Interceptor v3",
+    ItemName_Base.Interceptor_Armor_s = "Бронежилет Interceptor v2",
+    ItemName_Base.Interceptor_Armor_v = "Бронежилет Interceptor v1",
+	
+	/* POUNCHES */
+    ItemName_Base.Interceptor_Pouches = "Подсумки тактического жилета",
+    ItemName_Base.Interceptor_Pouches_Straps = "Тактический разгрузочный жилет",
+	
+	/* HELMET */
+    ItemName_Base.Hat_PASGT_Helmet = "Бронешлем PASGT",
+    ItemName_Base.Hat_TPASGT_Helmet = "Усовершенствованный боевой шлем",
+	
+	/* MARPAT */
+    ItemName_Base.Marpat_Jacket_w = "Куртка MARPAT v1",
+    ItemName_Base.Marpat_Jacket_d = "Куртка MARPAT v2",
+    ItemName_Base.Marpat_Pants_w = "Брюки MARPAT v1",
+    ItemName_Base.Marpat_Pants_d = "Брюки MARPAT v2",
+    ItemName_Base.Hat_USMC_Cap_w = "Кепка морской пехоты v1",
+    ItemName_Base.Hat_USMC_Cap_d = "Кепка морской пехоты v2",
+
+
+/* BRITA'S ARMOR PACK */
+	/* ARMOR */
+	ItemName_Base.Armor_Defender = "Бронежилет Defender 2",
+	ItemName_Base.Bag_Plate_Carrier = "Бронежилет Emerson",
+	ItemName_Base.Armor_6B13 = "Бронежилет 6B13",
+	ItemName_Base.Jacket_Heather = "Куртка Хизер Мэйсон",
+	ItemName_Base.Sheriff_Vest = "Бронежилет шерифа",
+	ItemName_Base.Sheriff_Vest_Full = "Полный бронежилет шерифа",
+	
+	/* ARMY HELMET */
+	ItemName_Base.Hat_PSGT_Helmet = "Военный шлем PASGT",
+	ItemName_Base.Hat_PSGT_Helmet_Camo = "Военный шлем PASGT (камо)",
+	ItemName_Base.Hat_PSGT_Visor = "Забрало (шлем PASGT)",
+	ItemName_Base.Hat_PSGT_Visor_UP = "Забрало (шлем PASGT)(поднято)",
+	ItemName_Base.Hat_Riot_Visor = "Полицейское забрало (шлем PASGT)",
+	ItemName_Base.Hat_Riot_Visor_UP = "Полицейское забрало (шлем PASGT)(поднято)",
+	ItemName_Base.Hat_PSGT_Neck = "Защита затылка (шлем PASGT)",
+	
+	/* BAGS */
+	ItemName_Base.Bag_Sniper_Pack = "Рюкзак снайпера G3 Phantom",
+	ItemName_Base.Bag_ARVN_Rucksack = "Рюкзак ARVN",
+	ItemName_Base.Bag_ST53_Set = "Защитный комплект Avon ST53",
+	ItemName_Base.Bag_SCBA = "Защитный комплект MSA",
+	ItemName_Base.Bag_ZIP = "Штурмовой рюкзак Y-ZIP",
+	ItemName_Base.Bag_SSO = "Штурмовой рюкзак Бобёр-М",
+	ItemName_Base.Bag_Savotta = "Рюкзак Savotta Jaakari S",
+	ItemName_Base.Bag_Bush = "Рюкзак сурвивалиста",
+	ItemName_Base.Bag_Hunting = "Охотничий рюкзак сурвивалиста",
+	ItemName_Base.Bag_Radio_Pack = "Радиолюбительский рюкзак AN/PRC-77",
+	ItemName_Base.Bag_Tactical_Alice = "Военный рюкзак Alice",
+	ItemName_Base.Bag_Cat_Pack = "Рюкзак сурвивалиста Kitty",
+	ItemName_Base.Bag_Robbie_Pack = "Рюкзак кролика Робби",
+	ItemName_Base.Bag_M2A1_Pack = "Рюкзак для огнемета M2-2",
+	
+	/* BELTS */
+	ItemName_Base.Bag_Tactical_Belt_Front = "Тактический ремень Fairwin (спереди)",
+	ItemName_Base.Bag_Tactical_Belt_Back = "Тактический ремень Fairwin (сзади)",
+	ItemName_Base.Bag_Duty_Belt_Front = "Полицейский ремень (спереди)",
+	ItemName_Base.Bag_Duty_Belt_Back = "Полицейский ремень (сзади)",
+	
+	/* BERET */
+	ItemName_Base.Hat_Beret_Tactical = "Военный берет с гарнитурой",
+	ItemName_Base.Hat_Beret_Tactical_Only = "Военный берет",
+	ItemName_Base.Hat_Beret_Tactical_Headset = "Военная гарнитура",
+	
+	/* CHEST RIG */
+	ItemName_Base.Bag_D3M = "Разгрузочный жилет D3M",
+	ItemName_Base.Bag_D3M_Loose = "Разгрузочный жилет D3M (ослаблено)",
+	ItemName_Base.Bag_Blackhawk = "Разгрузочный жилет Blackhawk",
+	ItemName_Base.Bag_Blackhawk_Loose = "Разгрузочный жилет Blackhawk (ослаблено)",
+	ItemName_Base.Bag_X_Vest = "Разгрузочный жилет Webbing Set",
+	ItemName_Base.Bag_X_Vest_Loose = "Разгрузочный жилет Webbing Set (ослаблено)",
+	ItemName_Base.Bag_SKS_Vest = "Разгрузочный жилет Type 56",
+	ItemName_Base.Bag_SKS_Vest_Loose = "Разгрузочный жилет Type 56 (ослаблено)",
+	ItemName_Base.Bag_AK_Vest = "Разгрузочный жилет Type 81",
+	ItemName_Base.Bag_AK_Vest_Loose = "Разгрузочный жилет Type 81 (ослаблено)",
+	
+	/* COMBAT CLOTHES */
+	ItemName_Base.Combat_Jumper = "Боевая куртка с молнией",
+	ItemName_Base.Combat_Pants = "Брюки Striker XT",
+	
+	/* ELA SUITS */
+	ItemName_Base.Ela_Jacket = "Тактическая куртка Бозак",
+	ItemName_Base.Ela_Pants = "Тактические леггинсы Бозак",
+	ItemName_Base.Hat_Ela_Hat = "Тактическая кепка Бозак с гарнитурой",
+	ItemName_Base.Hat_Ela_Hat_Only = "Тактическая кепка Бозак",
+	ItemName_Base.Hat_Ela_Headset = "Гарнитура Бозак",
+	
+	/* FAST OPSCORE */
+	ItemName_Base.Hat_FAST_Opscore = "Баллистический шлем Ops-Core",
+	
+	/* FIRE FIGHTER */
+	ItemName_Base.Hat_880_Helmet = "Шлем пожарного MSA Cairns 880",
+	ItemName_Base.Hat_880_Visor = "Забрало (Шлем пожарного MSA)",
+	ItemName_Base.Hat_880_Visor_UP = "Забрало (Шлем пожарного MSA)(поднято)",
+	
+	/* FIRE FIGHTER CLOTHES */
+	ItemName_Base.Fire_Jacket = "Куртка пожарного ErgoTech",
+	ItemName_Base.Fire_Pants = "Штаны пожарного EOS",
+	
+	/* GASMASK */
+	ItemName_Base.Hat_MCU_GasMask = "Противогаз MCU 2/P",
+	ItemName_Base.Hat_M45_GasMask = "Противогаз M45",
+	ItemName_Base.Hat_M50 = "Противогаз Avon M50",
+	ItemName_Base.Hat_FM53 = "Противогаз Avon FM53",
+	ItemName_Base.Hat_MSA_Gas_Mask = "Противогаз MSA Millennium",
+	ItemName_Base.Hat_MSA_Gas_Mask_AMP = "Противогаз MSA Millennium с VPU",
+	
+	/* GENTEX HELMET */
+	ItemName_Base.Hat_Gentex_Helmet = "Боевой шлем Gentex",
+	ItemName_Base.Hat_HGU56 = "Шлем пилота HGU-56P",
+	
+	/* GOGGLES */
+	ItemName_Base.Glasses_X1000 = "Тактические очки Bolle X1000",
+	ItemName_Base.Glasses_X1000_OFF = "Тактические очки Bolle X1000 (подняты)",
+	ItemName_Base.Glasses_Napier = "Очки для стрельбы SR-Ricochet",
+	ItemName_Base.Glasses_Crewman_Goggles = "Очки танкового экипажа",
+	ItemName_Base.Glasses_Crewman_Goggles_OFF = "Очки танкового экипажа (подняты)",
+	ItemName_Base.Hat_HGU56_Visor = "Визор (шлем HGU-56P)",
+	
+	/* GORKA SUITS */
+	ItemName_Base.Gorka_Jacket = "Куртка горка",
+	ItemName_Base.Gorka_Jacket2 = "Куртка горка (летний камо)",
+	ItemName_Base.Gorka_Jacket3 = "Куртка горка (осенний камо)",
+	ItemName_Base.Gorka_Pants = "Штаны горка",
+	ItemName_Base.Gorka_Pants2 = "Штаны горка (летний камо)",
+	ItemName_Base.Gorka_Pants3 = "Штаны горка (осенний камо)",
+	ItemName_Base.Gorka_Jacket_New = "Куртка горка (лесной камо)",
+	ItemName_Base.Gorka_Pants_New = "Штаны горка (лесной камо)",
+	
+	/* HAT */
+	ItemName_Base.Hat_Tactical_Boonie = "Панама 5.11 Boonie",
+	ItemName_Base.Hat_Tactical_Boonie_Fold = "Панама Striker Gen.2",
+	ItemName_Base.Hat_Lisa_Cap = "Шапочка медсестры",
+	ItemName_Base.Hat_Tactical_Cap = "Бейсболка DRI Duck",
+	ItemName_Base.Hat_Tactical_Cap_Camo = "Камуфляжная кепка Condor",
+	ItemName_Base.Hat_Patrol_Cap = "Кепка патрульного Helikon Tex",
+	ItemName_Base.Hat_Tactical_Beret = "Тактический берет",
+	
+	/* HAZMAT SUIT */
+	ItemName_Base.Suit_Chempak = "Костюм расширенной реакции Blauer XRT",
+	
+	/* HEADSET */
+	ItemName_Base.Hat_Sordin = "Гарнитура Z-Tactical Sordin",
+	ItemName_Base.Hat_Astrocom = "Тактическая гарнитура Astrocom",
+	
+	/* HELMET ATTACHMENTS */
+	ItemName_Base.Hat_Face_Shield = "Лицевой щиток (шлем Ops-Core)",
+	ItemName_Base.Hat_Helmet_Headset = "Гарнитура шлема",
+	ItemName_Base.Hat_HGU56_Shield = "Лицевой щиток (шлем пилота HGU-56P)",
+	
+	/* HOOD */
+	ItemName_Base.Bag_Sniper_Hood = "Капюшон снайпера Viper",
+	ItemName_Base.Bag_Shemagh_Half = "Балаклава (полумаска)",
+	ItemName_Base.Bag_Sniper_Suit = "Тактический маскировочный костюм (с капюшоном)",
+	ItemName_Base.Bag_Sniper_Suit_Off = "Тактический маскировочный костюм (без капюшона)",
+	
+	/* JUR */
+	ItemName_Base.Armor_Juggernaut = "Броня джаггернаута",
+	ItemName_Base.Armor_Arm = "Броня джаггернаута для рук",
+	ItemName_Base.Armor_Foot = "Броня джаггернаута для ног",
+	ItemName_Base.Bag_Juggernaut_Bag = "Рюкзак джаггернаута",
+	
+	/* KILLA CLOTHES */
+	ItemName_Base.Killa_Jacket = "Куртка Адидас (killa)",
+	ItemName_Base.Killa_Pants = "Штаны Адидас (killa)",
+	
+	/* M1 HELMET*/
+	ItemName_Base.Hat_M1_Helmet = "Шлем М1 (Митчелл камо)",
+	ItemName_Base.Hat_M1_Helmet_Ori = "Шлем М1",
+	
+	/* MASKA */
+	ItemName_Base.Hat_Maska = "Шлем Рысь-Т",
+	ItemName_Base.Hat_Killa = "Шлем Рысь-Т (killa)",
+	ItemName_Base.Hat_Maska_Visor = "Забрало Алтын (шлем Рысь-Т)",
+	ItemName_Base.Hat_Maska_Visor2 = "Забрало SCH (шлем Рысь-Т)",
+	ItemName_Base.Hat_Maska_Visor_UP = "Забрало Алтын (шлем Рысь-Т, поднято)",
+	ItemName_Base.Hat_Maska_Visor2_UP = "Забрало SCH (шлем Рысь-Т, поднято)",
+	ItemName_Base.Hat_Killa_Visor = "Забрало killa SCH (шлем Рысь-Т)",
+	ItemName_Base.Hat_Killa_Visor_UP = "Забрало killa SCH (шлем Рысь-Т, поднято)",
+	
+	/* OTHER CLOTHES */
+	ItemName_Base.Skirt_Nurse = "Юбка медсестры",
+	ItemName_Base.Pants_Yoga = "Трусы для йоги",
+	ItemName_Base.Turtleneck = "Свитер без рукавов",
+	ItemName_Base.Belly_Turtleneck = "Свитер без рукавов (короткий)",
+	ItemName_Base.S_Tank_Top = "Майка без рукавов",
+	ItemName_Base.Y_Shirts = "Офисная рубашка",
+	ItemName_Base.Y_Shirts_Long = "Офисная рубашка(длинная)",
+	ItemName_Base.Skirt_Office = "Офисная юбка",
+	ItemName_Base.Skirt_Office_Long = "Офисная юбка (длинная)",
+	ItemName_Base.Office_Sweater = "Офисный кардиган",
+	ItemName_Base.Office_Sweater_Long = "Офисный кардиган (длинный)",
+	ItemName_Base.Pants_Adidas = "Штаны Адидас",
+	ItemName_Base.Jacket_Adidas = "Куртка Адидас",
+	
+	/* OTHER HELMETS */
+	ItemName_Base.Hat_MX_Helmet = "Мотоциклетный шлем",
+	ItemName_Base.Hat_MX_Helmet_Glass = "Мотоциклетный шлем с очками",
+	
+	/* POLICE CLOTHES */
+	ItemName_Base.Sheriff_Jumper = "Патрульная куртка шерифа",
+	ItemName_Base.Police_Jumper = "Патрульная куртка полицейского",
+	
+	/* PVS NV */
+	ItemName_Base.Hat_PVS_5 = "ПНВ AN PVS-5 (Night Vision)",
+	ItemName_Base.Hat_PVS_5_OFF = "ПНВ AN PVS-5 (поднято)",
+	ItemName_Base.Hat_PVS15 = "ПНВ PVS-15 (Night Vision)",
+	ItemName_Base.Hat_PVS15_UP = "ПНВ PVS-15 (поднято)",
+	ItemName_Base.Hat_Sam_NV = "ПНВ Сэма Фишера (Night Vision)",
+	ItemName_Base.Hat_Sam_NV_OFF = "ПНВ Сэма Фишера (поднято)",
+	ItemName_Base.Hat_PVS15_ON = "ПНВ PVS-15 (Night Vision)",
+	ItemName_Base.Hat_PVS15_OFF = "ПНВ PVS-15 (поднято)",
+	ItemName_Base.Hat_PVS15_Harness_ON = "ПНВ PVS-15 с ремнями (Night Vision)",
+	ItemName_Base.Hat_PVS15_Harness_OFF = "ПНВ PVS-15 с ремнями (поднято)",
+	ItemName_Base.Hat_NV18_ON = "ПНВ GPNVG-18 (Night Vision)",
+	ItemName_Base.Hat_NV18_OFF = "ПНВ GPNVG-18 (поднято)",
+	ItemName_Base.Hat_NV18_Harness_ON = "ПНВ GPNVG-18 с креплением (Night Vision)",
+	ItemName_Base.Hat_NV18_Harness_OFF = "ПНВ GPNVG-18 с креплением (поднято)",
+	
+	/* RABBIT */
+	ItemName_Base.Rabbit_Suit = "Костюм кролика Робби",
+	ItemName_Base.Hat_Rabbit = "Маска кролика Робби",
+	
+	/* VEST */
+	ItemName_Base.Bag_Smersh_Vest = "Разгрузочный жилет Smersh",
+	ItemName_Base.Bag_Smersh_Vest_Loose = "Разгрузочный жилет Smersh (ослаблено)",
+
+
+/* UNDEAD SURVIVOR */
+	ItemName_UndeadSurvivor.StalkerKnife = "Нож сталкера",
+	ItemName_UndeadSurvivor.StalkerCloak = "Накидка сталкера (с капюшоном)",
+	ItemName_UndeadSurvivor.StalkerCloakDOWN = "Накидка сталкера",
+	ItemName_UndeadSurvivor.StalkerMask = "Противогаз сталкера",
+	ItemName_UndeadSurvivor.StalkerJacket = "Куртка сталкера",
+	ItemName_UndeadSurvivor.StalkerTrousers = "Штаны сталкера",
+	ItemName_UndeadSurvivor.StalkerTrousersTucked = "Штаны сталкера (подвёрнуты)",
+	ItemName_UndeadSurvivor.StalkerBoots = "Ботинки сталкера",
+	ItemName_UndeadSurvivor.StalkerGloves = "Перчатки сталкера",
+
+	ItemName_UndeadSurvivor.NomadMask = "Маска кочевника",
+	ItemName_UndeadSurvivor.NomadParka = "Куртка кочевника (с капюшоном)",
+	ItemName_UndeadSurvivor.NomadParkaDOWN = "Куртка кочевника",
+	ItemName_NomadParkaDOWN = "Куртка кочевника",
+	ItemName_UndeadSurvivor.OminousNomadMask = "Зловещая маска кочевника",
+	ItemName_UndeadSurvivor.OminousNomadParka = "Зловещая куртка кочевника (с капюшоном)",
+	ItemName_UndeadSurvivor.OminousNomadParkaDOWN = "Зловещая куртка кочевника",
+	ItemName_OminousNomadParkaDOWN = "Зловещая куртка кочевника",
+	ItemName_UndeadSurvivor.NomadTrousers = "Штаны кочевника",
+	ItemName_UndeadSurvivor.NomadTrousersTucked = "Штаны кочевника (подвёрнуты)",
+	ItemName_UndeadSurvivor.NomadBoots = "Ботинки кочевника",
+	ItemName_UndeadSurvivor.NomadBackpack = "Рюкзак кочевника",
+
+	ItemName_UndeadSurvivor.PrepperFlashlight = "Фонарик выживальщика",
+	ItemName_UndeadSurvivor.PrepperMask = "Противогаз выживальщика",
+	ItemName_UndeadSurvivor.PrepperHelmet = "Шлем выживальщика",
+	ItemName_UndeadSurvivor.PrepperVest = "Разгрузочный жилет выживальщика",
+	ItemName_UndeadSurvivor.PrepperVestPacked = "Разгрузочный жилет выживальщика с сумкой",
+	ItemName_UndeadSurvivor.PrepperBags = "Сумка от разгрузочного жилета выживальщика",
+	ItemName_UndeadSurvivor.PrepperJacket = "Куртка выживальщика",
+	ItemName_UndeadSurvivor.PrepperTrousers = "Штаны выживальщика",
+	ItemName_UndeadSurvivor.PrepperTrousersTucked = "Штаны выживальщика (подвёрнуты)",
+	ItemName_UndeadSurvivor.PrepperKnifeSwing = "Нож выживальщика (режущий стиль)",
+	ItemName_UndeadSurvivor.PrepperKnifeStab = "Нож выживальщика (колющий стиль)",
+
+
+/* WATER DISPENCSER */
+	ItemName_WaterDispenser.WaterJugEmpty = "Пустая бутыль",
+    ItemName_WaterDispenser.WaterJugWaterFull = "Бутыль с водой",
+    ItemName_WaterDispenser.WaterJugPetrolFull = "Бутыль с топливом",
+	
+	
+/* REFILLABLE LIGHTERS */
+    ItemName_Base.EmptyLighter = "Пустая зажигалка",
+	
+	
+/* VEHICLE REPAIR OVERHAUL */
+	ItemName_FixAFlat.FixAFlat = "Спрей для ремонта шин",
+	
+	
+/* 67 COMMANDO BMP */
+	ItemName_Base.V100Window2 = "Стеклопанель (67' БМП)",
+	ItemName_Base.V100ToolboxLid2 = "Крышка инструментального ящика ('67 БМП)",
+	ItemName_Base.V100Toolbox2 = "Инструментальный ящик ('67 БМП)",
+	ItemName_Base.FrontLeftV100Door2 = "Передняя левая дверь ('67 БМП)",
+	ItemName_Base.FrontRightV100Door2 = "Передняя правая дверь ('67 БМП)",
+	ItemName_Base.V100EngineDoor2 = "Капот ('67 БМП)",
+	ItemName_Base.RearV100Door2 = "Задняя дверь ('67 БМП)",
+	ItemName_Base.V100Tire2 = "Шина военного образца ('67 БМП)",
+	
+	
+/* 86 OSHKOSH P19A */
+		/*ItemName_Base.V100Tire2 = "", есть в командо бмп*/
+	ItemName_Base.P19ACarFrontDoor2 = "Передняя дверь (86' OSHKOSH)",
+	ItemName_Base.P19ARoofHatch2 = "Люк на крыше (86' OSHKOSH)",
+		/*ItemName_Base.P19ABigTrunk2 = " (86' OSHKOSH)",*/
+		/*ItemName_Base.P19ASmallTrunk2 = " (86' OSHKOSH)",*/
+	ItemName_Base.P19ARoofrack1_Item = "Багажник на крыше (86' OSHKOSH)",
+	ItemName_Base.P19ACarSeat2 = "Сидения (86' OSHKOSH)",
+	ItemName_Base.P19AEngineDoor2 = "Капот (86' OSHKOSH)",
+	ItemName_Base.P19ATrunkDoor2 = "Крышка багажника (86' OSHKOSH)",
+	ItemName_Base.P19AWindshield2 = "Лобовое броне-стекло (86' OSHKOSH)",
+	ItemName_Base.P19ASideWindow2 = "Переднее броне-стекло (86' OSHKOSH)",
+	ItemName_Base.P19ACarFrontDoorArmor1_Item = "Броня двери (86' OSHKOSH)",
+	ItemName_Base.P19AWindshieldArmor1_Item = "Стеклянная броне-панель (86' OSHKOSH)",
+	ItemName_Base.P19AFenderLeft1_Item = "Заднее левое крыло (86' OSHKOSH)",
+	ItemName_Base.P19AFenderLeft2_Item = "Самодельное заднее левое крыло (86' OSHKOSH)",
+	ItemName_Base.P19AFenderRight1_Item = "Заднее правое крыло (86' OSHKOSH)",
+	ItemName_Base.P19AFenderRight2_Item = "Самодельное заднее правое крыло (86' OSHKOSH)",
+	ItemName_Base.P19AFenderRight3_Item = "Повреждённое заднее правое крыло (86' OSHKOSH)",
+	ItemName_Base.P19ASpareMount1_Item = "Крепление для запаски сзади (86' OSHKOSH)",
+	ItemName_Base.P19ASpareMount2_Item = "Крепление для запаски на крыше (86' OSHKOSH)",
+	
+/* VFE */
+	ItemName_Base.Coupled556 = "Спаренный магазин 5.56",
+	ItemName_Base.Coupled762 = "Спаренный магазин 7.62",
+
+
+/* VANILA - LOL KEK KAK TAK TO */
+	ItemName_Base.Bag_WeaponBag = "Вещмешок",
+	ItemName_Base.Bag_InmateEscapedBag = "Вещмешок",
+	ItemName_Base.Bag_MoneyBag = "Вещмешок",
+	ItemName_Base.Bag_WorkerBag = "Вещмешок",
+	ItemName_Base.Bag_DuffelBag = "Вещмешок",
+	ItemName_Base.Bag_DuffelBagTINT = "Вещмешок",
+	
+}
