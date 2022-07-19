@@ -1,0 +1,15 @@
+ContextMenu_PTBR = {
+	ContextMenu_TakeBottleFromDispenser = "Pegar garrafa do dispenser",
+	ContextMenu_PlaceOnDispenser = "Colocar garrafa no dispenser",
+}
+
+ItemName_PTBR = {
+    ItemName_WaterDispenser.WaterJugEmpty = "Galão vazio",
+    ItemName_WaterDispenser.WaterJugWaterFull = "Galão com água",
+    ItemName_WaterDispenser.WaterJugPetrolFull = "Galão com gás",
+}
+
+Moveables_PTBR = {
+    Full_Water_Dispenser = "Dispenser de agua",
+    Empty_Water_Dispenser = "Dispenser de agua",
+}

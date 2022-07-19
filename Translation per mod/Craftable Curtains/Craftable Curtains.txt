@@ -1,0 +1,17 @@
+Recipes_PTBR = {
+	Recipe_Craft_Long_Curtain = "Fazer Cortina Longa",
+	Recipe_Convert_Long_Curtain_(Beige) = "Tingir cortina longa para bege",
+	Recipe_Convert_Long_Curtain_(Gray) = "Tingir cortina longa para cinza",
+	Recipe_Craft_Curtain = "Fazer Cortina",
+	Recipe_Convert_Curtain_(Beige) = "Tingir cortina para bege",
+	Recipe_Convert_Curtain_(Black) = "Tingir cortina para preto",
+	Recipe_Convert_Curtain_(Blue) = "Tingir cortina para azul",
+	Recipe_Convert_Curtain_(Brown) = "Tingir cortina para marrom",
+	Recipe_Convert_Curtain_(Gray) = "Tingir cortina para cinza",
+	Recipe_Convert_Curtain_(Green) = "Tingir cortina para verde",
+	Recipe_Convert_Curtain_(Pink) = "Tingir cortina para rosa",
+	Recipe_Craft_Small_Curtain = "Fazer Cortina Curta",
+	Recipe_Convert_Small_Curtain_(Bordeaux) = "Tingir cortina pequena para bordô",
+	Recipe_Convert_Small_Curtain_(Green) = "Tingir cortina pequena para verde",
+	Recipe_Convert_Small_Curtain_(Pearl) = "Tingir cortina pequena para perolado",
+}

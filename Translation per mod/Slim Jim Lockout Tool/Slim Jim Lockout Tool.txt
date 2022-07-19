@@ -1,0 +1,8 @@
+IGUI_PTBR = {
+    IGUI_UseSlimJim = "Use Slim Jim para destrancar portas",    
+}
+
+Tooltip_PTBR = {
+	Tooltip_item_PA_TrueCrimeMag2 = "Neste único volume aprenda a abrir carros como um profissional.",
+	Tooltip_item_PA_TrueCrimeMag2_b = "Neste único volume aprenda a abrir carros como um profissional.",
+}

@@ -1,5 +1,29 @@
 ItemName_PTBR = {
 
+/* Water Dispenser */
+    ItemName_WaterDispenser.WaterJugEmpty = "Galão vazio",
+    ItemName_WaterDispenser.WaterJugWaterFull = "Galão com água",
+    ItemName_WaterDispenser.WaterJugPetrolFull = "Galão com gás",
+
+/* Harry's Tow Truck - Chevalier Rhino */
+	DisplayName_TowBar = "Engate de reboque"
+	
+/* Autotsar Tuning Atelier - Bus */
+	ItemName_Autotsar.AtTuningMagBus = "Revista AT Tuning - Ônibus",
+	ItemName_Autotsar.Bullbar2Blueprint = "AT Tuning - Para-choque 2",
+	ItemName_Autotsar.Bullbar3Blueprint = "AT Tuning - Para-choque 3",
+	ItemName_Base.ATA_Bus_Kengur_1_Item = "Parachoque ",
+	ItemName_Base.ATA_Bus_Kengur_2_Item = "Parachoque melhorado",
+	ItemName_Base.ATA_Bus_Kengur_3_Item = "Parachoque c/ espinhos",
+	ItemName_Base.ATA_Bus_Protection_door_Item = "Proteção da porta",
+	ItemName_Base.ATA_Bus_Protection_door_rear_Item = "Proteção da porta traseira",
+	ItemName_Base.ATA_Bus_Protection_wheels_Item = "Proteção das rodas",
+	ItemName_Base.ATA_Bus_Protection_windows_front_Item = "Proteção para Parabrisa",
+	ItemName_Base.ATA_Bus_Protection_windows_right_Item = "Proteção da Janela [D]",
+	ItemName_Base.ATA_Bus_Protection_windows_left_Item = "Proteção da Janela [E]",
+	ItemName_Base.ATA_Bus_Roof_Rack = "Cercado do teto",
+	ItemName_Base.ATA_Bus_Roof_Box_Item = "Caixa do teto",
+
 /* Better Towing */	
 	ItemName_TowingCar.TowBar = "Barra de reboque"
 	

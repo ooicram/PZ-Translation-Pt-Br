@@ -1,4 +1,14 @@
 UI_PTBR = {
+/* Harry's Tow Truck - Chevalier Rhino */
+	UI_Text_Towing_turnOffParkingBrake = "Soltar freio de mão",
+	UI_Text_Towing_turnOnParkingBrake = "Puxar freio de mão",
+	UI_Text_Towing_noAviableVehicles = "Não há veículos para unir<br>ou não se pode unir",
+	UI_Text_Towing_attach = "Unir",
+	UI_Text_Towing_deattach = "Soltar",
+	UI_Text_Towing_byRope = "com uma corda",
+	UI_Text_Towing_byTowBar = "com o Engate de reboque",
+	UI_Text_Towing_byHook = "com um gancho",
+	UI_Text_Towing_flipUpright = "Desvirar"
 
 /* Better Towing */	
 	UI_Text_Towing_turnOffParkingBrake = "Soltar freio de mão",

@@ -1,5 +1,8 @@
 IGUI_PTBR = {
 
+/* Slim Jim Lockout Tool */
+    IGUI_UseSlimJim = "Use Slim Jim para destrancar portas",  
+	
 /* PZ-ClothingUI */
    IGUI_CUI_Display_slot_label  = "Mostrar rotulo do slot de roupas",
    IGUI_CUI_Display_slot_label_tooltip = "Mostrar ou escondr os rotulos do slot",

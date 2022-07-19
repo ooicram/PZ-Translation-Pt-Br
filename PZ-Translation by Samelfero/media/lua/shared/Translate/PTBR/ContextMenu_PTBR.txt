@@ -1,5 +1,9 @@
 ContextMenu_RU = {
 
-/* MOD NAME */
-	ContextMenu_UseStraps = "С жилетом",
+/* Water Dispenser */
+	ContextMenu_TakeBottleFromDispenser = "Pegar garrafa do dispenser",
+	ContextMenu_PlaceOnDispenser = "Colocar garrafa no dispenser",
+
+/* Autotsar Tuning Atelier - Bus */
+	ContextMenu_Vehicle_EGNH = "Escrever «EGNH»",
 } 

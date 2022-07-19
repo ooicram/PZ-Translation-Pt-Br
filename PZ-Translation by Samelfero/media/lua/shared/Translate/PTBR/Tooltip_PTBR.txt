@@ -1,7 +1,18 @@
 Tooltip_PTBR = {
 
+/* Slim Jim Lockout Tool */
+	Tooltip_item_PA_TrueCrimeMag2 = "Neste único volume aprenda a abrir carros como um profissional.",
+	Tooltip_item_PA_TrueCrimeMag2_b = "Neste único volume aprenda a abrir carros como um profissional.",
+
+/* Harry's Tow Truck - Chevalier Rhino */
+	Tooltip_TowBar_TowingCar = "Um Engate de reboque é usado <br>para enganchar o veículo ao reboque."
+
+/* Autotsar Tuning Atelier - Bus */
+	Tooltip_item_AtTuningMagBus = "Nesta edição aprendera a preparar seu Ônibus para o apocalipse,<br>aprendera a criar proteções para as janelas e as rodas, comprendera como fazer<br>algumas defesas improvisadas, além de alguns porta equipamentos.",
+	Tooltip_item_kengur = "Voce criou um novo tipo de Parachoque.",
+
 /* Better Towing */	
-	Tooltip_TowBar_TowingCar = "Barra de reboque pode ser usada<br> para rebocar ve?culos como um trailer"
+	Tooltip_TowBar_TowingCar = "Barra de reboque pode ser usada<br> para rebocar veículos como um trailer"
 
 /* More Books */
 	Tooltip_book_1 = "Por George Orwell"

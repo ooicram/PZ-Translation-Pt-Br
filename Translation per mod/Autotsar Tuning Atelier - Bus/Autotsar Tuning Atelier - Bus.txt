@@ -1,0 +1,41 @@
+ContextMenu_PTBR = {
+ContextMenu_Vehicle_EGNH = "Escrever «EGNH»",
+}
+
+ItemName_PTBR = {
+ItemName_Autotsar.AtTuningMagBus = "Revista AT Tuning - Ônibus",
+ItemName_Autotsar.Bullbar2Blueprint = "AT Tuning - Para-choque 2",
+ItemName_Autotsar.Bullbar3Blueprint = "AT Tuning - Para-choque 3",
+ItemName_Base.ATA_Bus_Kengur_1_Item = "Parachoque ",
+ItemName_Base.ATA_Bus_Kengur_2_Item = "Parachoque melhorado",
+ItemName_Base.ATA_Bus_Kengur_3_Item = "Parachoque c/ espinhos",
+ItemName_Base.ATA_Bus_Protection_door_Item = "Proteção da porta",
+ItemName_Base.ATA_Bus_Protection_door_rear_Item = "Proteção da porta traseira",
+ItemName_Base.ATA_Bus_Protection_wheels_Item = "Proteção das rodas",
+ItemName_Base.ATA_Bus_Protection_windows_front_Item = "Proteção para Parabrisa",
+ItemName_Base.ATA_Bus_Protection_windows_right_Item = "Proteção da Janela [D]",
+ItemName_Base.ATA_Bus_Protection_windows_left_Item = "Proteção da Janela [E]",
+ItemName_Base.ATA_Bus_Roof_Rack = "Cercado do teto",
+ItemName_Base.ATA_Bus_Roof_Box_Item = "Caixa do teto",
+}
+
+Recipes_PTBR = {
+Recipe_Basic_Tuning = "Personalização",
+Recipe_Make_ATABusKengur1Item = "Fazer Para-Choque melhorado para Ônibus",
+Recipe_Make_ATABusKengur2Item = "Fazer Para-Choque melhorado para Ônibus",
+Recipe_Make_ATABusKengur3Item = "Fazer Para-Choque c/ espinhos para Ônibus",
+Recipe_Make_ATABusRoofRack = "Fazer cercado para teto do Ônibus",
+Recipe_Make_ATABusProtectionDoorItem = "Fazer proteção para porta.",
+Recipe_Make_ATABusProtectionDoorRearItem = "Fazer proteção para porta traseira",
+Recipe_Make_ATABusProtectionWheelsItem = "Fazer proteção para as rodas",
+Recipe_Make_ATABusProtectionWindowsFrontItem = "Fazer proteção para o Parabrisa",
+Recipe_Make_ATABusProtectionWindowsRightItem = "Fazer proteção para Janela direita",
+Recipe_Make_ATABusProtectionWindowsLeftItem = "Fazer proteção para Janela esquerda",
+Recipe_Make_ATABusRoofBoxItem = "Fazer caixa para o teto do Ônibus",
+}
+
+
+Tooltip_PTBR = {
+Tooltip_item_AtTuningMagBus = " "Nesta edição aprendera a preparar seu Ônibus para o apocalipse,<br>aprendera a criar proteções para as janelas e as rodas, comprendera como fazer<br>algumas defesas improvisadas, além de alguns porta equipamentos.",
+Tooltip_item_kengur = "Voce criou um novo tipo de Parachoque.",
+}

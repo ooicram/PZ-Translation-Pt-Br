@@ -1,7 +1,6 @@
 Moveables_PTBR = {
 
-
-/* MOD NAME */
-    Full_Water_Dispenser = "Кулер",
-
+/* Water Dispenser */
+    Full_Water_Dispenser = "Dispenser de agua",
+    Empty_Water_Dispenser = "Dispenser de agua",
 }

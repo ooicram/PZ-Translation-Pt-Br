@@ -1,6 +1,33 @@
 Recipes_PTBR = {
-
-/* MOD NAME */
-	Recipe_Use NV18 Harness = "Traducao",
+/* Craftable Curtains */
+	Recipe_Craft_Long_Curtain = "Fazer Cortina Longa",
+	Recipe_Convert_Long_Curtain_(Beige) = "Tingir cortina longa para bege",
+	Recipe_Convert_Long_Curtain_(Gray) = "Tingir cortina longa para cinza",
+	Recipe_Craft_Curtain = "Fazer Cortina",
+	Recipe_Convert_Curtain_(Beige) = "Tingir cortina para bege",
+	Recipe_Convert_Curtain_(Black) = "Tingir cortina para preto",
+	Recipe_Convert_Curtain_(Blue) = "Tingir cortina para azul",
+	Recipe_Convert_Curtain_(Brown) = "Tingir cortina para marrom",
+	Recipe_Convert_Curtain_(Gray) = "Tingir cortina para cinza",
+	Recipe_Convert_Curtain_(Green) = "Tingir cortina para verde",
+	Recipe_Convert_Curtain_(Pink) = "Tingir cortina para rosa",
+	Recipe_Craft_Small_Curtain = "Fazer Cortina Curta",
+	Recipe_Convert_Small_Curtain_(Bordeaux) = "Tingir cortina pequena para bordo",
+	Recipe_Convert_Small_Curtain_(Green) = "Tingir cortina pequena para verde",
+	Recipe_Convert_Small_Curtain_(Pearl) = "Tingir cortina pequena para perolado",
+	
+/* Autotsar Tuning Atelier - Bus */
+	Recipe_Basic_Tuning = "Personalizacao",
+	Recipe_Make_ATABusKengur1Item = "Fazer Para-Choque melhorado para Onibus",
+	Recipe_Make_ATABusKengur2Item = "Fazer Para-Choque melhorado para Onibus",
+	Recipe_Make_ATABusKengur3Item = "Fazer Para-Choque c/ espinhos para Onibus",
+	Recipe_Make_ATABusRoofRack = "Fazer cercado para teto do Onibus",
+	Recipe_Make_ATABusProtectionDoorItem = "Fazer protecao para porta.",
+	Recipe_Make_ATABusProtectionDoorRearItem = "Fazer protecao para porta traseira",
+	Recipe_Make_ATABusProtectionWheelsItem = "Fazer protecao para as rodas",
+	Recipe_Make_ATABusProtectionWindowsFrontItem = "Fazer protecao para o Parabrisa",
+	Recipe_Make_ATABusProtectionWindowsRightItem = "Fazer protecao para Janela direita",
+	Recipe_Make_ATABusProtectionWindowsLeftItem = "Fazer protecao para Janela esquerda",
+	Recipe_Make_ATABusRoofBoxItem = "Fazer caixa para o teto do Onibus",
 	
 }

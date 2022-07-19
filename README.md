@@ -18,6 +18,22 @@ Compilado de traduções, para Pt-Br, de uma serie de mods de Project Zomboid
 [![GitHub More Books](https://img.shields.io/badge/-GitHub-gray)]()
 [![Steam More Books](https://img.shields.io/badge/-Steam-black)](https://steamcommunity.com/sharedfiles/filedetails/?id=2592358528)
 
+>Harry's Tow Truck - Chevalier Rhino:<br />	
+[![GitHub More Books](https://img.shields.io/badge/-GitHub-gray)]()
+[![Steam More Books](https://img.shields.io/badge/-Steam-black)](https://steamcommunity.com/sharedfiles/filedetails/?id=2778456849)
+
+>Craftable Curtains:<br />	
+[![GitHub More Books](https://img.shields.io/badge/-GitHub-gray)](https://github.com/aSeriousDeveloper/zomboid-craftable-curtains)
+[![Steam More Books](https://img.shields.io/badge/-Steam-black)](https://steamcommunity.com/sharedfiles/filedetails/?id=2787505766)
+
+>Slim Jim Lockout Tool:<br />	
+[![GitHub More Books](https://img.shields.io/badge/-GitHub-gray)]()
+[![Steam More Books](https://img.shields.io/badge/-Steam-black)](https://steamcommunity.com/sharedfiles/filedetails/?id=2793314838)
+
+>Water Dispenser:<br />	
+[![GitHub More Books](https://img.shields.io/badge/-GitHub-gray)](https://github.com/Konijima/WaterDispenser)
+[![Steam More Books](https://img.shields.io/badge/-Steam-black)](https://steamcommunity.com/sharedfiles/filedetails/?id=2687798127)
+
 ###### Créditos:<br /><br />
 >SAMELFERO:<br />	
 [![GitHub Samelfero](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ooicram)

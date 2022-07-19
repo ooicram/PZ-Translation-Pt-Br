@@ -1,8 +1,5 @@
 Items_PTBR = {
 
-
-/* MOD NAME */
-	DisplayName_Hand_Hatchet = "Ручной топорик",
-
-
+/* Harry's Tow Truck - Chevalier Rhino */
+	ItemName_TowingCar.TowBar = "Engate de reboque"
 }
