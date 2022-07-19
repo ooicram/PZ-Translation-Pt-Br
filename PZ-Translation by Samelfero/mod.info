@@ -1,4 +1,6 @@
 name=PZ-Translation by Samelfero
 id=PZTranslationBySamelfero
-description=Compilado de traduções de mods.
 poster=poster.png
+description=Compilado de traduções de mods.
+require=myclothinguimod, MoreBooks, TowingCar, ATA_Bus, HTowTruckFix, craftable-curtains-robboinnit, SlimJimLockoutTool, WaterDispenser  
+url=https://github.com/ooicram/PZ-Translation-Pt-Br
