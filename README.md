@@ -1,5 +1,6 @@
 # PZ-Translation-Pt-Br
 Compilado de traduções, para Pt-Br, de uma serie de mods de Project Zomboid
+[![Download PZ-Translation Pt-Br](https://img.shields.io/badge/-Download-black)]()
 
 # Mods traduzidos
 >PZ-ClothingUI:<br />	
